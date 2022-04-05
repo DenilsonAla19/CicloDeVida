@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora Divisas</string>
+    <string name="title1">Moneda actual</string>
+    <string name="title2">Moneda cambio</string>
+    <string name="Convertir">Calcular</string>
+    <string name="monto">Monto</string>
+    <string name="resultado">Resultado</string>
+</resources>

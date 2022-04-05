@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CicloDeVida/app_CalculadoraDivisas/src/main/res/layout/activity_main_Monedas.xml" value="0.1" />
+        <entry key="..\:/CicloDeVida/app_CalculadoraDivisas/src/main/res/layout/activity_main_monedas.xml" value="0.1" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/activity_main.xml" value="0.12129629629629629" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/activity_segunda_actividad.xml" value="0.14722222222222223" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/app_bar_navigator_drawer.xml" value="0.1" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/content_navigator_drawer.xml" value="0.14722222222222223" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/fragment_gallery.xml" value="0.358695652173913" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/fragment_home.xml" value="0.14722222222222223" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/fragment_slideshow.xml" value="0.358695652173913" />
+        <entry key="..\:/CicloDeVida/app_CicloDeVida/src/main/res/layout/nav_header_navigator_drawer.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
